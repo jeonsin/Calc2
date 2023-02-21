@@ -1,0 +1,17 @@
+*{
+    font-family:Verdana,Geneva,Tahoma, Sans-serif;
+    background-color:black;
+    color:antiquewhite
+}
+h1 {
+    color: aliceblue;
+
+}
+h1,.sub,#result {
+    text-align: center;
+
+}
+#result{
+    background-color: yellow;
+    color: black;
+}
